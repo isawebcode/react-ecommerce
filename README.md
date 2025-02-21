@@ -8,6 +8,8 @@ Para instalar y ejecutar el proyecto en tu máquina local, sigue estos pasos:
 2. **Instalar las dependencias**: Con `npm install` se instalan todas las dependencias que el proyecto necesita para funcionar.
 3. **Ejecutar el proyecto**: `npm run dev` lanza el servidor de desarrollo, lo que te permite ver y trabajar en la aplicación.
 
+**Versión Node.js instalada "^18.18.0 || ^19.8.0 || >= 20.0.0"**
+
 ## Parámetros configurables (constantes)
 
 El carrito de compras se gestiona a través de un identificador de usuario.
